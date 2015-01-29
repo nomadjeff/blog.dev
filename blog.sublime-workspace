@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"contents",
+				"contentsArray"
+			],
+			[
+				"th",
+				"thingamajig"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"my",
+				"mylastnumber"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/bootstrap/compiled.php\n/vendor\ncomposer.phar\n.env.*.php\n.env.php\n.DS_Store\nThumbs.db\n",
+			"file": ".gitignore",
+			"file_size": 100,
+			"file_write_time": 1422549615000000,
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/etc/hosts",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/rolodex/index.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/edit_address.php",
+		"/Users/newuser/vagrant-lamp/sites/blog.dev/.gitignore",
+		"/Users/newuser/vagrant-lamp/sites/blog.dev/composer.lock",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/templates/address.form.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/add_address.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/css/ab.css",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/index.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/edit_person.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/templates/something.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/todo_sql.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book/templates/person.form.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/addtask.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/todo_new.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/national_parks/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/db/pdo.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/park_seeder.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/index.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/db/db_connect.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/park_migration.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/alamo/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/alamo_old/includes/homecontent.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/alamo_old/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/db/park_migration.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/db/pdo_test_insert.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/db/db_connect.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/db/:: Get new instance of PDO object",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/inc/address_data_store.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/inc/filestore.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/data/todo.txt",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/filestore.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack/functions.php",
+		"/Users/newuser/vagrant-lamp/sites/whackamole.dev/public/index.php",
+		"/Users/newuser/vagrant-lamp/addons.bash",
+		"/Users/newuser/vagrant-lamp/sites/whackamole.dev/public/nicole/edits.txt",
+		"/Users/newuser/vagrant-lamp/sites/whackamole.dev/public/index.html",
+		"/Users/newuser/vagrant-lamp/sites/whackamole.dev/public/nicole/index.html",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/address_book.csv",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/alamo/includes/navbar.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/alamo/css/site.css",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/alamo/includes/bootstrap.css",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/fivestar/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/fivestar/includes/navbar.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/fivestar/includes/homecontent.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/fivestar/includes/bootstrap.css",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/fivestar/navbar.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack/basic_strategy.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack/basic_counting.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack/running_count.php",
+		"/Users/newuser/Desktop/moreitems.txt",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/dom_query_js.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/button_event.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack/temp.php",
+		"/Users/newuser/vagrant-lamp/exercises/todolist.php",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/data/todo.txt",
+		"/Users/newuser/vagrant-lamp/exercises/data/list.txt",
+		"/Users/newuser/vagrant-lamp/exercises/data/list2.txt",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/todo_list.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/window_js.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/button_event.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/something.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/objects_math_js.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/objects_date.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/split_join_arrays.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/external.js",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/classroom.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/iterating_arrays.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/exercises/javascript/scope.html",
+		"/Users/newuser/vagrant-lamp/sites/planner.dev/public/css_intro.html",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/blackjack.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/sorolas/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/index.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/everglades.html",
+		"/Users/newuser/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/newuser/vagrant-lamp/exercises/list.txt",
+		"/Users/newuser/vagrant-lamp/exercises/data/.gitignore",
+		"/Users/newuser/vagrant-lamp/exercises/search_arrays.php",
+		"/Users/newuser/vagrant-lamp/exercises/list_with_commas.php",
+		"/Users/newuser/vagrant-lamp/exercises/get_input.php",
+		"/Users/newuser/vagrant-lamp/exercises/internal_functions.php",
+		"/Users/newuser/vagrant-lamp/exercises/arithmetic.php",
+		"/Users/newuser/vagrant-lamp/exercises/foreach_books.php",
+		"/Users/newuser/vagrant-lamp/exercises/switch.php",
+		"/Users/newuser/vagrant-lamp/exercises/break_continue.php",
+		"/Users/newuser/vagrant-lamp/exercises/for.php",
+		"/Users/newuser/vagrant-lamp/exercises/foreach.php",
+		"/Users/newuser/vagrant-lamp/exercises/count.php",
+		"/Users/newuser/vagrant-lamp/exercises/fizzbuzz.php",
+		"/Users/newuser/vagrant-lamp/High_Low_Game/High_Low_Game.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/list.php",
+		"/Users/newuser/vagrant-lamp/exercises/README.md",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/ifthen.php",
+		"/Users/newuser/vagrant-lamp/sites/codeup.dev/public/if_and_or.php",
+		"/Users/newuser/vagrant-lamp/sites/sorolas/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"50",
+			") no-repeat center",
+			"	'url(../images/",
+			"	    		// 		setTimeout(function() {\n",
+			"	    		// 		}, 200);\n",
+			" class=\"invisible\"",
+			"<dd>",
+			"55",
+			"50",
+			"$handValue = cardValue($firstCard) + cardValue($secondCard);\n",
+			"</h3>",
+			"<h3>",
+			"h3",
+			"overall",
+			"January",
+			"January\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\nOctober\nNovember\nDecember",
+			"shapes",
+			"shape",
+			"</td>",
+			" . PHP_EOL",
+			"echo",
+			"book"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "composer.json",
+					"settings":
+					{
+						"buffer_size": 717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true
+}
